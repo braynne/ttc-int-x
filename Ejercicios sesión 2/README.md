@@ -41,4 +41,4 @@ Use the possessive adjectives (my, your, our…) to fill in the blanks.
 7. (I) \_<ins>My</ins>\_ husband and I want to go to Paris.
 8. We want to see (it) \_<ins>its</ins>\_ historical monuments.
 9. Leila likes (she) \_<ins>her</ins>\_ dog!
-10. (It) \_<ins>its</ins>\_ name is Bobby.
+10. (It) \_<ins>Its</ins>\_ name is Bobby.
