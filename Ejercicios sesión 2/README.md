@@ -4,7 +4,7 @@
 
 Classify the words in the box in the right category. Then, find the other 2 categories that are related to each word, and give an example for each one. Look at the example!
 
-`power - active - add - confuse - creative - education`
+```power - active - add - confuse - creative - education```
 
 | Noun: Power                              | Verb: Empower                                   | Adjective: Powerful              |
 |------------------------------------------|-------------------------------------------------|----------------------------------|
@@ -14,21 +14,21 @@ Classify the words in the box in the right category. Then, find the other 2 cate
 |-----------------------------------------|------------------------------------------|--------------------------------------------|
 | Ex. Her activity levels are impressive. | Ex. They activated the emergency system. | Ex. She is an active participant in class. |
 
-| Noun: Addition | Verb: Add | Adjective: Additional |
-|-------|-------|------------|
+| Noun: Addition                                          | Verb: Add                     | Adjective: Additional                           |
+|---------------------------------------------------------|-------------------------------|-------------------------------------------------|
 | Ex. The addition of new features improved the software. | Ex. Please add these numbers. | Ex. The additional resources were very helpful. |
 
-| Noun: | Verb: | Adjective: |
-|-------|-------|------------|
-| Ex.   | Ex.   | Ex.        |
+| Noun: Confusion                                | Verb: Confuse                       | Adjective: Confused                           |
+|------------------------------------------------|-------------------------------------|-----------------------------------------------|
+| Ex. There was confusion during the discussion. | Ex. Don’t confuse the instructions. | Ex. He looked confused after the explanation. |
 
-| Noun: | Verb: | Adjective: |
-|-------|-------|------------|
-| Ex.   | Ex.   | Ex.        |
+| Noun: Creativity                            | Verb: Create                       | Adjective: Creative               |
+|---------------------------------------------|------------------------------------|-----------------------------------|
+| Ex. Creativity is essential for innovation. | Ex. She creates beautiful artwork. | Ex. This is a very creative idea. |
 
-| Noun: | Verb: | Adjective: |
-|-------|-------|------------|
-| Ex.   | Ex.   | Ex.        |
+| Noun: Education                       | Verb: Educate                       | Adjective: Educational                    |
+|---------------------------------------|-------------------------------------|-------------------------------------------|
+| Ex. Education is a fundamental right. | Ex. They aim to educate the public. | Ex. The educational program was engaging. |
 
 ## SESSION 2 EXERCISE 2
 
