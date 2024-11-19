@@ -10,13 +10,13 @@ Classify the words in the box in the right category. Then, find the other 2 cate
 |------------------------------------------|-------------------------------------------------|----------------------------------|
 | Ex. We have the power to make decisions. | Ex. This act empowers women all over the world. | Ex. Superman is a powerful hero. |
 
-| Noun: | Verb: | Adjective: |
-|-------|-------|------------|
-| Ex.   | Ex.   | Ex.        |
+| Noun: Activity                          | Verb: Activate                           | Adjective: Active                          |
+|-----------------------------------------|------------------------------------------|--------------------------------------------|
+| Ex. Her activity levels are impressive. | Ex. They activated the emergency system. | Ex. She is an active participant in class. |
 
-| Noun: | Verb: | Adjective: |
+| Noun: Addition | Verb: Add | Adjective: Additional |
 |-------|-------|------------|
-| Ex.   | Ex.   | Ex.        |
+| Ex. The addition of new features improved the software. | Ex. Please add these numbers. | Ex. The additional resources were very helpful. |
 
 | Noun: | Verb: | Adjective: |
 |-------|-------|------------|
