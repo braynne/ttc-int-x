@@ -34,11 +34,11 @@ Use the possessive adjectives (my, your, our…) to fill in the blanks.
 
 1. Where is (I) \_<ins>my</ins>\_ book?
 2. Here is (we) \_<ins>our</ins>\_ teacher.
-3. She goes to school with (she) ___ brother.
-4. (They) ___ father works in a car factory.
-5. (You) ___ laptop is very expensive.
-6. (He) ___ favorite hobby is tennis.
-7. (I) ___ husband and I want to go to Paris.
-8. We want to see (it) ___ historical monuments.
-9. Leila likes (she) ___ dog!
-10. (It) ___ name is Bobby.
+3. She goes to school with (she) \_<ins>her</ins>\_ brother.
+4. (They) \_<ins>Their</ins>\_ father works in a car factory.
+5. (You) \_<ins>Your</ins>\_ laptop is very expensive.
+6. (He) \_<ins>His</ins>\_ favorite hobby is tennis.
+7. (I) \_<ins>My</ins>\_ husband and I want to go to Paris.
+8. We want to see (it) \_<ins>its</ins>\_ historical monuments.
+9. Leila likes (she) \_<ins>her</ins>\_ dog!
+10. (It) \_<ins>its</ins>\_ name is Bobby.
